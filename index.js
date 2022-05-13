@@ -1,7 +1,7 @@
 import URL from "./targetProcess.js";
 import express from "express";
 import bodyParser from "body-parser";
-
+//Carlos eres inutil se te quiere , prueba de valor XD
 const app = express();
 
 app.use(bodyParser.urlencoded({ extended: false }));
