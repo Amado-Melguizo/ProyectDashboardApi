@@ -46,6 +46,13 @@
       "project": "a",
       "description": "a",
       "id": 6
+    },
+    {
+      "type": "Tipo",
+      "team": "Equipo",
+      "project": "q",
+      "description": "q",
+      "id": 7
     }
   ],
   "users": [
