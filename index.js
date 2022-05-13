@@ -1,7 +1,7 @@
 import URL from "./targetProcess.js";
 import express from "express";
 import bodyParser from "body-parser";
-//Carlos eres inutil se te quiere
+//Carlos eres inutil se te
 const app = express();
 
 app.use(bodyParser.urlencoded({ extended: false }));
