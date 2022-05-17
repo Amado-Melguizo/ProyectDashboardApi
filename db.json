@@ -1,4 +1,3 @@
-
 {
   "request": [
     {
@@ -44,16 +43,9 @@
     {
       "type": "PRIO 1",
       "team": "Dev",
-      "project": "a",
-      "description": "a",
+      "project": "prueba",
+      "description": "prueba",
       "id": 6
-    },
-    {
-      "type": "Tipo",
-      "team": "Equipo",
-      "project": "q",
-      "description": "q",
-      "id": 7
     }
   ],
   "users": [
@@ -95,6 +87,27 @@
       "email": "a@a",
       "password": "a",
       "id": 5
+    },
+    {
+      "surname": "aaa",
+      "email": "a@a",
+      "name": "aaa",
+      "password": "akjakaj",
+      "id": 6
+    },
+    {
+      "name": "yirle",
+      "surname": "correa",
+      "email": "yiyi@yiyi",
+      "password": "yiyi",
+      "id": 7
+    },
+    {
+      "name": "yirle",
+      "surname": "correa",
+      "email": "a@a",
+      "password": "aaa",
+      "id": 8
     }
   ]
 }
