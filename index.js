@@ -2,7 +2,7 @@ import URL from "./targetProcess.js";
 import express from "express";
 import bodyParser from "body-parser";
 const app = express();
-//prueba 1.4
+//prueba 1.5
 app.use(bodyParser.urlencoded({ extended: false }));
 app.use(bodyParser.json());
 
