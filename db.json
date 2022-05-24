@@ -1,80 +1,60 @@
 {
   "request": [
     {
-      "type": "Tipo",
-      "team": "Equipo",
-      "project": "q",
-      "description": "q",
-      "id": 7
+      "state": true,
+      "type": "PRIO 1",
+      "team": "Dev",
+      "project": "a",
+      "description": "a",
+      "id": 1
     },
     {
-      "type": "Tipo",
-      "team": "Equipo",
-      "project": "aq",
-      "description": "a",
-      "id": 8
+      "state": false,
+      "project": "aaaa",
+      "description": "ydtyftu",
+      "id": 2
+    },
+    {
+      "team": "UAT",
+      "project": "asdagsfdhj",
+      "description": "terdyfu",
+      "id": 3
+    },
+    {
+      "team": "AUX",
+      "project": "artyfu",
+      "description": "ftyfgu",
+      "id": 4
     }
   ],
   "users": [
     {
       "role": "admin",
-      "name": "amado",
-      "surname": "melguizo",
-      "email": "amado@admindecathlon.com",
-      "password": "amado",
-      "state": null,
-      "id": 1
+      "name": "Amado",
+      "surname": "Melguizo",
+      "id": "amado@admin",
+      "password": "amado"
     },
     {
       "role": "user",
-      "name": "amado",
+      "name": "amadoUser",
       "surname": "melguizo",
-      "email": "amado@userdecathlon.com",
-      "password": "amado",
-      "state": null,
-      "id": 2
+      "id": "amado@user",
+      "password": "amado"
     },
     {
-      "name": "amado",
-      "surname": "a",
-      "email": "a@a",
-      "password": "amado",
-      "id": 3
+      "role": "user",
+      "name": "amadoUser",
+      "surname": "melguizo",
+      "id": "carlos@user",
+      "password": "carlos"
     },
     {
-      "name": "aaaa",
-      "surname": "aaa",
-      "email": "a@a",
-      "password": "aaaaa",
-      "id": 4
-    },
-    {
-      "name": "aaa",
-      "surname": "aaa",
-      "email": "a@a",
-      "password": "a",
-      "id": 5
-    },
-    {
-      "surname": "aaa",
-      "email": "a@a",
-      "name": "aaa",
-      "password": "akjakaj",
-      "id": 6
-    },
-    {
-      "name": "yirle",
-      "surname": "correa",
-      "email": "yiyi@yiyi",
-      "password": "yiyi",
-      "id": 7
-    },
-    {
-      "name": "yirle",
-      "surname": "correa",
-      "email": "a@a",
-      "password": "aaa",
-      "id": 8
+      "rol": "user",
+      "name": "Carlos",
+      "surname": "Munoz",
+      "id": "carlos@munoz",
+      "password": "carlos"
     }
   ]
 }
